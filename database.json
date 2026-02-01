@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "key": "TESTER999BUFF",
+      "het_han": "2027-12-31T23:59:59.999Z",
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "created_by": "admin"
+    }
+  ],
+  "logs": [
+    {
+      "id": 1704067200000,
+      "timestamp": "2024-01-01T00:00:00.000Z",
+      "action": "KEY_CREATED",
+      "key": "ABCD-1234-EFGH-5678",
+      "details": "Expires: 2024-12-31T23:59:59.999Z"
+    }
+  ]
+}
